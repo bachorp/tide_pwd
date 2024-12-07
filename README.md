@@ -14,7 +14,7 @@ fisher install bachorp/tide_pwd
 
 Please consult the corresponding [Tide docs](https://github.com/IlanCosman/tide/wiki/Configuration#pwd).
 
-Note that in contrast to the Tide, the default `tide_pwd_markers` list contains only `.git`.
+Note that in contrast to Tide, the default `tide_pwd_markers` list contains only `.git`.
 
 ## Usage
 
